@@ -1,14 +1,8 @@
-// filepath: /Users/shahadnazar/Documents/GitHub/-Lemonade-Stand/tailwind.config.js
+/** @type {import('tailwindcss').Config} */
 export default {
-  purge: [
-    './src/**/*.{js,jsx,ts,tsx}',
-  ],
-  darkMode: false, // or 'media' or 'class'
+  content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
   theme: {
-    extend: {},
-  },
-  variants: {
-    extend: {},
+      extend: {},
   },
   plugins: [],
-};
+}
