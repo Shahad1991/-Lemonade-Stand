@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Shahad1991/-Lemonade-Stand",
+  "homepage": "https://Shahad1991.github.io/-Lemonade-Stand/",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
